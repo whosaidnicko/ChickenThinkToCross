@@ -23,7 +23,7 @@ struct JagainvuwiozView: View {
                     .frame(width: 144, height: 144)
             }
             
-            WKWebViewRepresentable(url: URL(string: "https://plays.org/game/crossy-chicken/")!) {
+            WKWebViewRepresentable(url: URL(string: "https://plays.org/game/go-chicken-go/")!) {
                 goqahide = true
                 let sqizbty = UIImpactFeedbackGenerator(style: .heavy)
                 sqizbty.prepare() //
